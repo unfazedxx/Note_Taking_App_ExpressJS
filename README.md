@@ -31,5 +31,9 @@
   Find more projects located on my github page: https://github.com/unfazedxx       
   
 
+
+  ## Issues 
   Screenshot unavailable as i could not get it to depoly on heroku
+  Heroku link not provided on this submission, was having issues getting the application to deploy
+
   
