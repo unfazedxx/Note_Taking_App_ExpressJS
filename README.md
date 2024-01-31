@@ -30,8 +30,8 @@
   - Node.js
 
   ## Screenshots
-  ![Landing Page screenshot ](<Screenshot 2024-01-31 at 6.38.03 PM.png>)
-  ![Second Screenshot](<Screenshot 2024-01-31 at 6.38.17 PM.png>)
+  ![Landing Page screenshot ](./images/Screenshot%202024-01-31%20at%206.38.03 PM.png)
+  ![Second Screenshot](./images/Screenshot%202024-01-31%20at%206.38.17 PM.png)
 
   ## License
 
