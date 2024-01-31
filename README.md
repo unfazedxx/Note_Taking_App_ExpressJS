@@ -1,39 +1,54 @@
 
-  ## Note taking application - Express.js - Kunal Shah 
-    
-  ## Description
-  The purpose of this project was to create routes using express JS in order to have go to specific paths, have our notes saved and  be able to edit the notes. 
+  ## Note taking Application
 
-  ## Table of Contents 
-  undefined
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Technologies](#technologies)
+  * [Screenshots](#screenshots)
+  * [License](#license)
+  * [Author](#author)
+
+
+  ## Description
+  This is a Note taking app which allows the user to create, post and save notes.  The application uses Express.js for the back end and allows the user to save and retrieve their note data from a JSON file. 
 
   ## Installation
-  Installation instructions:
-  for installation, on the user side, there is no installation process, they can click on the heroku link. For the developer, they will need to have the dependencies downloaded and possibly have access to insomnia for testing. 
+  - Clone the repository
+  - After cloned, go to the CLI (integrated terminal) within the project folder
+  - In the CLI (npm i) to install the depenedencies 
+  - Next, type (node server.js) to intialize the application
+  - Lastly, go to (localhost:3001) in your browser to use the app. 
     
-  ## Usage
-  Instructions for use:
-  Click on the heroku link
 
-  (Not provided on this submission, was having issues getting the application to deploy)
+  ## Technologies
+  - Express.js
+  - HTML
+  - CSS
+  - Node.js
 
-  ## Licenses
-  This project uses the . Please visit their site for futher information. 
-    
-  ## Contributing 
-  None
-    
-  ## Tests
-  None
-    
-  ## Questions 
-  Please reach out if there are any additional questions: shahkun02@gmail.com
-  Find more projects located on my github page: https://github.com/unfazedxx       
-  
+  ## Screenshots
+  ![Landing Page screenshot ](<Screenshot 2024-01-31 at 6.38.03 PM.png>)
+  ![Second Screenshot](<Screenshot 2024-01-31 at 6.38.17 PM.png>)
 
+  ## License
 
-  ## Issues 
-  Screenshot unavailable as i could not get it to depoly on heroku
-  Heroku link not provided on this submission, was having issues getting the application to deploy
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+  This project uses the MIT license
+      
+  ## Author
+
+  I hope you enjoyed this walkthrough on the Text Editor using PWA's.
+
+  If you have further questions or wish to see the other projects I have completed, please visit my Github repository here: [Kunal's Github](https://github.com/unfazedxx).
+
+  You can also reach out via email at: 
+  <a href="mailto:shahkun01@gmail.com">shahkun01@gmail.com</a>
+
+  Happy coding 😊
+
 
   
